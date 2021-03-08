@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ItalyMenu/static/css/main.a95887a2.chunk.css",
+    "main.js": "/ItalyMenu/static/js/main.e05b7de6.chunk.js",
+    "main.js.map": "/ItalyMenu/static/js/main.e05b7de6.chunk.js.map",
+    "runtime-main.js": "/ItalyMenu/static/js/runtime-main.9e39525f.js",
+    "runtime-main.js.map": "/ItalyMenu/static/js/runtime-main.9e39525f.js.map",
+    "static/js/2.28970fef.chunk.js": "/ItalyMenu/static/js/2.28970fef.chunk.js",
+    "static/js/2.28970fef.chunk.js.map": "/ItalyMenu/static/js/2.28970fef.chunk.js.map",
+    "static/js/3.0aa04b50.chunk.js": "/ItalyMenu/static/js/3.0aa04b50.chunk.js",
+    "static/js/3.0aa04b50.chunk.js.map": "/ItalyMenu/static/js/3.0aa04b50.chunk.js.map",
+    "index.html": "/ItalyMenu/index.html",
+    "static/css/main.a95887a2.chunk.css.map": "/ItalyMenu/static/css/main.a95887a2.chunk.css.map",
+    "static/js/2.28970fef.chunk.js.LICENSE.txt": "/ItalyMenu/static/js/2.28970fef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e39525f.js",
+    "static/js/2.28970fef.chunk.js",
+    "static/css/main.a95887a2.chunk.css",
+    "static/js/main.e05b7de6.chunk.js"
+  ]
+}
